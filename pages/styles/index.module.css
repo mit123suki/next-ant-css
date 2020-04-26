@@ -1,0 +1,6 @@
+.page {
+    background-color: var(--primaryColor);
+    margin: 3rem;
+    padding: 3rem;
+    text-align: center;
+}

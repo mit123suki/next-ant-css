@@ -1,0 +1,15 @@
+:root {
+    --backgroundColor: rgb(212, 203, 203);
+    --primaryColor: aqua;
+    --normalColor: #d9d9d9;
+    --successColor: #52c41a;
+    --infoColor: #1890ff;
+    --warningColor: #faad14;
+    --errorColor: #f5222d;
+    --darkColor: rgb(51,51,51);
+    --textColor:rgba(0, 0, 0, .65);
+    --textColorSecondary:rgba(0,0,0,.45);
+    --borderColorBase: hsv(0, 0, 85%);
+    --borderRadiusBase: 4px;
+    --codeFamily: "Anonymous Pro", "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+}
