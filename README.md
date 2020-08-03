@@ -1,3 +1,9 @@
+# UPDATE ( 3rd aug 2020 )
+
+- use this setup https://github.com/mit123suki/next-ant-setup
+
+- This repo shows how to setup with ant with custom themeing, all without touching the webpack config.
+
 # NextJS-AntD-CSS Minimal Starter
 
 - Example showing the Integration of AntD 4+ with NextJS 9.3+
